@@ -1,5 +1,5 @@
 
-<p align="center"><img src="img/animation_200.gif"/>
+<p align="center"><img src="img/animation_200_kytszf9g.gif"/>
 <h3 align="center"><strong>Gredicer</strong></h3>
 <p align="center">I don't know what to say yet</p>
 
